@@ -66,11 +66,5 @@
     "GREEN_360": "#d1d1d1",
     "RED_400": "#FC0E61"
   },
-  "spec": 2,
-  "background": {
-    "blur": 0,
-    "url": "",
-    "alpha": 0.9,
-    "color": "#0A0A0A"
-  }
+  "spec": 2
 }
