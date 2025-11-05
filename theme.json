@@ -1,0 +1,76 @@
+{
+  "name": "Kettu duck AMOLED theme",
+  "description": "A dark Discord theme for AMOLED screens",
+  "authors": [
+    {
+      "name": "Duck"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#ffffff"],
+    "HEADER_SECONDARY": ["#b1b1b1"],
+    "TEXT_NORMAL": ["#ffffff"],
+    "TEXT_MUTED": ["#5E5E5E"],
+    "TEXT_LINK": ["#89B4FA"],
+    "INTERACTIVE_NORMAL": ["#f1f1f1"],
+    "INTERACTIVE_HOVER": ["#c1c1c1"],
+    "INTERACTIVE_ACTIVE": ["#d1d1d1"],
+    "INTERACTIVE_MUTED": ["#5E5E5E"],
+    "BACKGROUND_PRIMARY": ["#0A0A0A"],
+    "BACKGROUND_SECONDARY": ["#0A0A0A"],
+    "BACKGROUND_SECONDARY_ALT": ["#0A0A0A"],
+    "BACKGROUND_TERTIARY": ["#0A0A0A"],
+    "BACKGROUND_ACCENT": ["#0A0A0A"],
+    "BACKGROUND_FLOATING": ["#0A0A0A"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#0A0A0A"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#0A0A0A"],
+    "BACKGROUND_NESTED_FLOATING": ["#0A0A0A"],
+
+    "BACKGROUND_MESSAGE_HOVER": ["#0A0A0A"],
+    "BACKGROUND_MODIFIER_HOVER": ["#0A0A0A"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#ffffff"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#ffffff"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#0A0A0A"],
+    "SCROLLBAR_THIN_THUMB": ["#0A0A0A"],
+    "SCROLLBAR_THIN_TRACK": ["transparent"],
+    "SCROLLBAR_AUTO_THUMB": ["#f1f1f1"],
+    "SCROLLBAR_AUTO_TRACK": ["#f1f1f1"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#242424"],
+    "CHANNELS_DEFAULT": ["#3E3E3E"],
+    "TEXT_DANGER": ["#FC0E61"],
+    "KEYBOARD": ["#0A0A0A"],
+    "CHANNEL_ICON": ["#0A0A0A"],
+    "CHAT_BACKGROUND": ["#0A0A0A"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#0A0A0A"],
+    "SPOILER_REVEALED_BACKGROUND": ["#0A0A0A"]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#ffffff",
+    "PRIMARY_200": "#d1d1d1",
+    "PRIMARY_300": "#717171",
+    "PRIMARY_360": "#a1a1a1",
+    "PRIMARY_400": "#89B4FA",
+    "PRIMARY_500": "#5E5E5E",
+    "PRIMARY_600": "#0A0A0A",
+    "PRIMARY_630": "#2F2F2F",
+    "PRIMARY_660": "#2F2F2F",
+    "PRIMARY_700": "#0A0A0A",
+    "PRIMARY_800": "#0A0A0A",
+
+    "BRAND_260": "#717171",
+    "BRAND_360": "#a1a1a1",
+    "BRAND_500": "#717171",
+    "BRAND_560": "#a1a1a1",
+    "WHITE_500": "#ffffff",
+    "YELLOW_300": "#d1d1d1",
+    "GREEN_360": "#d1d1d1",
+    "RED_400": "#FC0E61"
+  },
+  "spec": 2,
+  "background": {
+    "blur": 0,
+    "url": "",
+    "alpha": 0.9,
+    "color": "#0A0A0A"
+  }
+}
