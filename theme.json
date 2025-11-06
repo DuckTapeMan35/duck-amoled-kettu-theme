@@ -37,7 +37,7 @@
     "SCROLLBAR_AUTO_TRACK": ["#f1f1f1"],
     "CHANNELTEXTAREA_BACKGROUND": ["#242424"],
     "CHANNELS_DEFAULT": ["#3E3E3E"],
-    "TEXT_DANGER": ["#F38BA8"],
+    "TEXT_DANGER": ["#e86671"],
     "KEYBOARD": ["#0A0A0A"],
     "CHANNEL_ICON": ["#0A0A0A"],
     "CHAT_BACKGROUND": ["#0A0A0A"],
@@ -64,7 +64,7 @@
     "WHITE_500": "#ffffff",
     "YELLOW_300": "#d1d1d1",
     "GREEN_360": "#d1d1d1",
-    "RED_400": "#F38BA8"
+    "RED_400": "#e86671"
   },
   "spec": 2
 }
